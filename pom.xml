@@ -11,6 +11,8 @@
     <modules>
         <module>bio-nio-aio</module>
         <module>auto_generate</module>
+        <module>mybatis_learn</module>
+        <module>rabbitmq_learn</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
